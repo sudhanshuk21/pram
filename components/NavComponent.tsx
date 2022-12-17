@@ -39,7 +39,7 @@ export default function NavComponent() {
           <div className="flex justify-between items-center   py-6 sm:justify-between sm:space-x-10">
             <div className="flex justify-start lg:w-0 lg:flex-1">
               <Link href="#home" passHref>
-                <h1>LOGO</h1>
+                <h1></h1>
               </Link>
             </div>
             <div className="-mr-2 -my-2 sm:hidden">

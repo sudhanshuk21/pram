@@ -15,7 +15,7 @@ const data = [
     description: "Made a drone at home and programmed it using mission planner,using APM 2.8 as its flight controller.Later attached GPS module on it and flew it on different flying modes .",
    // href:`https://dev-ui.vercel.app/`,
 
-    img: "/Group2.jpg",
+    img: "https://lh4.googleusercontent.com/pD94v24WNfgkV9h1TipHPu6qIy0lxolRgL3HDgb-kwNywoQdzxdGsQSFNm4S9CXUTWo=w2400",
   },
   {
     name: "Balsa Plane and RC trainer plane",
