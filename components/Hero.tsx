@@ -32,8 +32,8 @@ export default function Hero() {
         <div className="flex items-center justify-center p-6 mt-8 lg:mt-0 h-72 sm:h-80 lg:h-96 xl:h-112 2xl:h-128">
           <img
             src=" https://lh3.googleusercontent.com/7I1YHxNLRYlLmxBANMHE7loMVmPEx0Nsl58Wd6Y0f88V3eFMSVE-5KMuRprFEa8qRXI=w2400"
-            alt class="object-contain h-72 sm:h-80 lg:h-96 xl:h-112 2xl:h-128 rounded-xl "
-            className="object-contain h-72 sm:h-80 lg:h-96 xl:h-112 2xl:h-128 "
+            alt="" className="object-contain h-72 sm:h-80 lg:h-96 xl:h-112 2xl:h-128 rounded-xl "
+            
           />
         </div>
       </div>
